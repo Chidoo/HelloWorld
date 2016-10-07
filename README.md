@@ -1,3 +1,3 @@
-# HelloWorld
-Practice 
-I am very enthusiastic and energetic person.
+HelloWorld
+
+I am a very enthusiastic and energetic person. Today is Friday
